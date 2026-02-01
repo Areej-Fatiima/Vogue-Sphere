@@ -1,0 +1,13 @@
+flask
+flask-cors
+ultralytics
+transformers
+torch
+torchvision
+pillow
+requests
+google-generativeai
+supabase
+thefuzz
+python-dotenv
+python-levenshtein
